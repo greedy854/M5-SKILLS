@@ -87,7 +87,7 @@
       <section class="inputs">
         <div>
           <input id="part--1" type="checkbox" class="filter">
-          <label for="part--1" class="label">Dutch</label>
+          <label for="part--1" class="label">Du</label>
         </div>
 
         <div>
